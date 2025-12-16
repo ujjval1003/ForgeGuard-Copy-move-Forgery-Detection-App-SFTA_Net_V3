@@ -1,1 +1,1 @@
-# ForgeGuard---Copy-move-Forgery-Detection-App---SFTA_Net_V3-
+# ForgeGuard-Copy-move-Forgery-Detection-App-SFTA_Net_V3
